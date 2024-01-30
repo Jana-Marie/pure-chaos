@@ -2,7 +2,7 @@
 
 An accidental collage of an unknown number of images shot at 37c3 in Hamburg. My camera, an Olympus 35 RD jammed and didn't advance it's film. I regocnized about 13 different pictures withing the image so far, there could be up to ~36 individual shots.
 
-![pure-chaos](https://github.com/Jana-Marie/pure-chaos/pure_chaos_web.jpg)
+![A photo of a photo with mashup of various different scenes. It is really hard to find words to describe it, there is a huge blue seven segment display across the whole image. Several taped messages with doubles again across the whole image, saying “Trans Rights”, showing an e2 molecule and a trans-anarchy symbol. There is some red in the image, which is a faint image of two red umbrellas, they are hard to make out. There are several signs with an “X” and “Y” as well as arrows, escalator signs and numbers. There is a shop in the center saying “Würstelinsel” and a neon sign saying “Abbaubar”. There are some light spots and strips of random color.](https://github.com/Jana-Marie/pure-chaos/blob/main/pure_chaos_web.jpg)
 
 `pure_chaos_original.jpg` – the full image, 46MB, 6843x4560px
 `pure_chaos_frame.jpg` – the full scan, including the frame, stitched, 47MB, 9207x6672px
